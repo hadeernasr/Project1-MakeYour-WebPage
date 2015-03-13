@@ -1,0 +1,51 @@
+body{
+	font-family: Verdana, sans-serif;
+	color: #666666;
+	font-size: 16px;
+	font-weight: 300;
+}
+
+.row{
+	max-width: 1024px;
+	max-height: 885px;
+}
+ 
+ .main-title{
+ 	font-size: 48px;
+ 	font-weight: normal;
+ 	padding: 25px 0 20px 0;
+ }
+
+ .sub-title{
+ 	margin-top: 0px;
+ 	margin-bottom: 30px;
+ }
+
+ h2{
+ 	font-size: 150%;
+ 	font-weight: bold;
+ 	color: #f07c17;
+ }
+
+.list-box{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #cccccc;
+	margin: 30px 0px 30px 0px;
+	padding: 0px 0px 30px 30px;
+}
+
+.list-title{
+	margin:30px 0px 30px 0px;
+}
+
+li{
+	line-height: 32px;
+}
+
+p{
+ 	margin: 10px 0 10px 0;
+ 	font-weight: normal;
+ 	line-height: 32px;
+}
+
