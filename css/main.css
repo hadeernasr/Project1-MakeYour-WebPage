@@ -1,51 +1,46 @@
-body{
+body {
 	font-family: Verdana, sans-serif;
-	color: #666666;
+	color: #666;
 	font-size: 16px;
 	font-weight: 300;
 }
-
-.row{
+/* The row width and hight */
+.row {
 	max-width: 1024px;
 	max-height: 885px;
 }
- 
- .main-title{
+/* The Main Title */
+.main-title {
  	font-size: 48px;
  	font-weight: normal;
  	padding: 25px 0 20px 0;
- }
-
- .sub-title{
- 	margin-top: 0px;
- 	margin-bottom: 30px;
- }
-
- h2{
+}
+/* The Sub Title */
+.sub-title {
+ 	margin: 0 0 30px 0;
+}
+h2 {
  	font-size: 150%;
  	font-weight: bold;
- 	color: #f07c17;
- }
-
-.list-box{
+ 	color: #F07C17;
+}
+/* List Box style */
+.list-box {
 	border-width: 1px;
 	border-style: solid;
-	border-color: #cccccc;
-	margin: 30px 0px 30px 0px;
-	padding: 0px 0px 30px 30px;
+	border-color: #CCC;
+	margin: 30px 0 30px 0;
+	padding: 0 0 30px 30px;
 }
-
-.list-title{
-	margin:30px 0px 30px 0px;
+/* List Box title style */
+.list-title {
+	margin:30px 0 30px 0;
 }
-
-li{
+li {
 	line-height: 32px;
 }
-
-p{
- 	margin: 10px 0 10px 0;
- 	font-weight: normal;
- 	line-height: 32px;
+p {
+	margin: 10px 0 10px 0;
+	font-weight: normal;
+	line-height: 32px;
 }
-
